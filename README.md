@@ -1,3 +1,3 @@
 # HLD
 
-1. Design Youtube
+1. Design Youtube : Youtube/Youtube_HLD.png
